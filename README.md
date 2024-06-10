@@ -1,2 +1,3 @@
 # LuisEduardo
-Desarrollador Full Stack, Ingeniero de datos
+Desarrollador Junior, Ingeniero de datos
+
